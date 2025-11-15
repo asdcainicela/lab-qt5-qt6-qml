@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pages/Page_5.qml</file>
+        <file>pages/Page_4.qml</file>
+        <file>pages/Page_1.qml</file>
+        <file>pages/Page_2.qml</file>
+        <file>pages/Page_3.qml</file>
+        <file>graphics/alarm-white.svg</file>
+        <file>graphics/alarm.svg</file>
+        <file>graphics/home-white.svg</file>
+        <file>graphics/home.svg</file>
+        <file>graphics/navigation-white.svg</file>
+        <file>graphics/navigation.svg</file>
+        <file>graphics/settings-white.svg</file>
+        <file>graphics/settings.svg</file>
+        <file>pages/Page_8.qml</file>
+    </qresource>
+</RCC>
